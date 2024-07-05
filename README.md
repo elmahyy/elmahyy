@@ -1,7 +1,7 @@
 # 👋 Hi, I'm elmahyy!
 👨🏻‍💻 Software Engineer sharing about my journey and learning in tech<br/>
-👨🏻‍🎓 Student Grade 10 at Manaret Al Farouk IGCSE<br/>
-🎨 Video Editor for production companies<br/>
+👨🏻‍🎓 10th Grade Student at Manaret Al Farouk IGCSE<br/>
+🎬 Video Editor for media production companies<br/>
 
 
 # 💻 Tech Stack
