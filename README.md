@@ -1,4 +1,4 @@
-# 👋Hi, I'm elmahyy!
+# 👋 Hi, I'm elmahyy!
 👨🏻‍💻 Software Engineer sharing about my journey and learning in tech<br/>
 👨🏻‍🎓 Student Grade 10 at Manaret Al Farouk IGCSE<br/>
 🎨 Video Editor for production companies<br/>
@@ -28,3 +28,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=elmahyy&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elmahyy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elmahyy&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
