@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Ahmed elmahyy!
-👨🏻‍💻 Software Engineer sharing about my journey and learning in tech<br/>
-👨🏻‍🎓 Student at Manaret Al Farouk IGCSE<br/>
-🎬 Video Editor for media production companies<br/>
+# 👋 Hey there, I'm Ahmed Elmahyy!
+👨🏻‍💻  Passionate Software Engineer | Security Enthusiast<br/>
+Building secure, scalable solutions that make a real impact<br/>
 
 
 # 💻 Tech Stack
